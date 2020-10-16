@@ -21,12 +21,12 @@ Work experience
   * Supervisor: Mo Fakhar
 
 * Spring 2020 - Present: Researcher (Volunteer)
-  * Univers
+  * Loyola Medicine @ Program for Experimental and Theoretical Modeling (PETM)
   * Duties included: Stochastic Data Modelling
   * Supervisor: Sasha Gutfraind
 
 * Summer 2018 - Present: Researcher (Volunteer)
-  * Loyola Medicine @ Program for Experimental and Theoretical Modeling (PETM)
+  * Loyola Medicine @ DahariLab
   * Duties included: Agent-Based Modelling
   * Supervisor: Harel Dahari
 
