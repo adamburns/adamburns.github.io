@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Adam Burns is a research assistant in the Program for Experimental and Theoretical Modeling (PETM) at Loyola University Chicago Medical Center and is a consultant for The Shelby Group (TSG). He earned a Bachelor's degree in Mathematics from Indiana University. His research is in mathematical models, particularly in .
+I am a **researcher** at the **Program for Experimental and Theoretical Modeling (PETM)** and **DahariLab** at **Loyola Medicine**. I am also a consultant for The Shelby Group. I earned my Bachelor's degree in Mathematics from Indiana University. My research is in bioinformatics and bio-mathematical modelling.
 
 Research interests
 ======
