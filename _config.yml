@@ -155,7 +155,7 @@ kramdown:
 
 # Collections
 collections:
-  aboutme:
+  about:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -183,10 +183,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _aboutme
+  # _about
   - scope:
       path: ""
-      type: aboutme
+      type: about
     values:
       layout: single
       author_profile: true
