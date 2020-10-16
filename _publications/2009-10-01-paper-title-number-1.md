@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
 collection: publications
 permalink: /publication/schools-outbreak
 excerpt: 'This paper is about effect of self-isolation policies on schools with outbreaks.'
