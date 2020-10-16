@@ -1,15 +1,15 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/schools-outbreak
+excerpt: 'This paper is about effect of self-isolation policies on schools with outbreaks.'
+date: 2020-10-014
+venue: 'The Pediatric Infectious Disease Journal, Submitted'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v1'
+citation: 'Adam Burns, Alexander Gutfraind. (2020). &quot;Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19.&quot; <i>medRxiv</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about modelling the effect of return to school policies on seasonal and pandemic outbreaks. The agent-based model is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v1)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Adam Burns, Alexander Gutfraind. (2020). "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19." <i>medRxiv</i>. 1(1).
