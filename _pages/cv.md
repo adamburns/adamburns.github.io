@@ -20,7 +20,7 @@ Work experience
   * Duties included: Data Engineer
   * Supervisor: Mo Fakhar
 
-* Spring 2020 - Present: **Researcher (Volunteer)**
+* Spring 2019 - Present: **Researcher (Volunteer)**
   * [**Loyola Medicine @ Program for Experimental and Theoretical Modeling (PETM)**](https://ssom.luc.edu/medicine/divisionsspecialties/hepatology/programforexperimentalandtheoreticalmodeling/)
   * Duties included: Stochastic Data Modelling
   * Supervisor: Sasha Gutfraind
