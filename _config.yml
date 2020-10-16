@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Burns / Research"
+title                    : "Adam A. C. Burns"
 title_separator          : "-"
-name                     : &name "Adam Burns"
+name                     : &name "Adam A. C. Burns"
 description              : &description "Researcher at Loyola Medicine"
 url                      : https://adamburns.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
