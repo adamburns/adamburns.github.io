@@ -5,7 +5,7 @@ permalink: /publication/2020-10-14-schools-outbreak
 excerpt: 'This paper is about modelling the effect of return to school policies on seasonal and pandemic outbreaks. The agent-based model is left for future work.'
 date: 2020-10-14
 venue: 'The Pediatric Infectious Disease Journal, Submitted'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2020.03.26.20044750v1'
 citation: 'Adam Burns, Alexander Gutfraind. (2020). &amp;quot;Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19.&amp;quot; <i>medRxiv</i>. 1(1).'
 ---
 
