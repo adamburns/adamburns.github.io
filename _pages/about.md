@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **researcher** at the **Program for Experimental and Theoretical Modeling (PETM)** and **DahariLab** at **Loyola Medicine**. I am also a consultant for The Shelby Group. I earned my Bachelor's degree in Mathematics from Indiana University. My research is in bioinformatics and bio-mathematical modelling.
+I am a researcher at the **Program for Experimental and Theoretical Modeling (PETM)** and **DahariLab** at **Loyola Medicine**. I am also a consultant for **The Shelby Group**. I earned my Bachelor's degree in Mathematics from Indiana University. My research is in bioinformatics and bio-mathematical modelling.
 
 Research interests
 ======
