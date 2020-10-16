@@ -20,6 +20,16 @@ Work experience
   * Duties included: Data Engineer
   * Supervisor: Mo Fakhar
 
+* Spring 2020 - Present: Researcher (Volunteer)
+  * Univers
+  * Duties included: Stochastic Data Modelling
+  * Supervisor: Sasha Gutfraind
+
+* Summer 2018 - Present: Researcher (Volunteer)
+  * Loyola Medicine @ Program for Experimental and Theoretical Modeling (PETM)
+  * Duties included: Agent-Based Modelling
+  * Supervisor: Harel Dahari
+
 * Summer 2016 - Spring 2020: Research and IT Systems Associate
   * FactRight, LLC
   * Duties included: Data Engineer, Dashboard Implementation
