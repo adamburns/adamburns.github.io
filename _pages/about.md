@@ -13,6 +13,5 @@ I am a researcher at the **Program for Experimental and Theoretical Modeling (PE
 Research interests
 ======
 * Epidemiology of infectious diseases
-* Mathematical and agent-based modelling
-* Bioinformatics and Computational Biology
-* High Performance Computing
+* Computational virology & medicine
+* Stochastic and agent-based modelling
