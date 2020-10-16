@@ -1,16 +1,16 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19"
+collection: publications
+permalink: /publication/2020-10-14-schools-outbreak
+excerpt: 'This paper is about modelling the effect of return to school policies on seasonal and pandemic outbreaks. The agent-based model is left for future work.'
+date: 2020-10-14
+venue: 'The Pediatric Infectious Disease Journal, Submitted'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Adam Burns, Alexander Gutfraind. (2020). &amp;quot;Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19.&amp;quot; <i>medRxiv</i>. 1(1).'
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
 
-{% include base_path %}
+This paper is about modelling the effect of return to school policies on seasonal and pandemic outbreaks. The agent-based model is left for future work.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Recommended citation: Adam Burns, Alexander Gutfraind. (2020). &quot;Effectiveness of Isolation Policies in Schools: Evidence from a Mathematical Model of Influenza and COVID-19.&quot; <i>medRxiv</i>. 1(1).
